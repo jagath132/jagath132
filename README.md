@@ -7,7 +7,7 @@ Automation tester
 - 💬 Ask me about Tech
 - 😄 Pronouns: Techie
 - 📫 How to reach me :
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/jagath-ranganathan-2bb4a2263/)
 
 
 
