@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagath R</h1>
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)
+<!-- - 🔭 Here's my [portfolio](https://hareesh.web.app/) -->
 - <h3 align="center">A passionate Automation Tester from India</h3>
 - 🌱 I’m currently learning **Automation testing frameworks**
 
